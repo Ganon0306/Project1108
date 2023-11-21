@@ -1,6 +1,7 @@
 fileFormatVersion: 2
-guid: d63a870bc331bb24caeacee3b9c6450c
-folderAsset: yes
+guid: 52748c438f56d2541be849f8f9e9d595
+labels:
+- AllCreature
 DefaultImporter:
   externalObjects: {}
   userData: 
